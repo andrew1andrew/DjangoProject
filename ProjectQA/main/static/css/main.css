@@ -139,6 +139,7 @@ body.ajax-page-visible {
 
 a {
   color: #007ced;
+  font-size: 18px;
   text-decoration: none;
   outline: none;
   -webkit-transition: all .3s ease-in-out;
