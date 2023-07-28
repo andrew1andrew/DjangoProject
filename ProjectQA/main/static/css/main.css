@@ -1903,10 +1903,12 @@ ul.social-links li:last-child a {
 }
 
 .info-block-w-icon .ci-text p {
+  font-size: 14px;
   font-size: .92em;
 }
 
 .info-block-w-icon .ci-text p:last-child {
+  font-size: 14px;
   margin-bottom: 0;
 }
 
