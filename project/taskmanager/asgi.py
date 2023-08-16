@@ -1,5 +1,5 @@
 """
-ASGI config for ProjectQA project.
+ASGI config for taskmanager taskmanager.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ProjectQA.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'taskmanager.settings')
 
 application = get_asgi_application()
